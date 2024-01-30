@@ -1,6 +1,7 @@
 # Google-Data-Analytics-Capstone-Project
-This project is part of the Google Data Analytics Professional Certificate. 
-https://www.credly.com/badges/cfc2e662-02fa-4974-a462-8f78f2bbcf55/linked_in?t=rgmq8f
+
+
+I have successfully completed the Google Data Analytics Certificate (https://www.credly.com/badges/cfc2e662-02fa-4974-a462-8f78f2bbcf55/linked_in?t=rgmq8f), a comprehensive program by Google comprising eight courses. This certification equips me with hands-on experience in various tools and platforms, including spreadsheets, SQL, Tableau, and Python.
 
 ## Libraries
 - Pandas
